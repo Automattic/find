@@ -2,7 +2,7 @@
   "name": "find2",
   "repo": "component/find",
   "description": "Array find first value utility",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "keywords": ["array", "find", "utility"],
   "dependencies": {
     "component/to-function": "1.2.1"
