@@ -13,7 +13,7 @@
   "development": {},
   "component": {
     "scripts": {
-      "find/index.js": "index.js"
+      "find2/index.js": "index.js"
     }
   },
   "repository": {
