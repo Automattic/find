@@ -8,7 +8,7 @@
     "utility"
   ],
   "dependencies": {
-    "to-function": "https://github.com/component/to-function/tarball/master"
+    "to-function": "1.2.1"
   },
   "development": {},
   "component": {
